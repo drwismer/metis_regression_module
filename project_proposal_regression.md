@@ -1,5 +1,0 @@
-# Linear Regression Project Proposal
-David Wismer
-
-## Proposal
-The goal of the project will be to predict the scoring of Ultimate Fighting Championship (UFC) fights using fight metrics. The fight metrics will be scraped from UFCStats.com and fight scoring data will be scraped from MMADecisions.com. I will use a variety of fight metrics as independent variables (i.e. features), such as striking metrics, grappling metrics, and control time metrics. These will be used to predict final fight scores. The predictions will be compared against average scoring data from MMADecisions.com. A model like this could be used by the UFC to determine whether the scoring criteria is being followed correctly. If key fight metrics align with the intended hierarchy of scoring criteria that judges are meant to follow, the criteria is likely working as intended. The model could be used to determine which judges (and media members) deviate most from the regression model. It could also be used to evaluate how UFC rule changes have an impact on the way judges are viewing fights.
