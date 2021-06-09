@@ -1,0 +1,5 @@
+# Metis Bootcamp - Regression Project
+
+For my Metis Data Science Bootcamp, we were tasked with scraping the web and building a regression model with the scraped data. I used Scrapy to scrape data from UFCStats.com and MMADecisions.com. The bulk of the scraping code lives in the file at [**code/UFCStats/spiders/spider.py**](https://github.com/drwismer/metis_regression_module/blob/main/code/UFCStats/spiders/spider.py). The other files deal with initiating the Scrapy project, as well as storing the data in a local Postgres database. My EDA and regression modeling work can be found in the two "Regression" ipynb notebooks in the [**code**](https://github.com/drwismer/metis_regression_module/tree/main/code) folder.
+
+You can read my full writeup in the [**project_writeup_up.md**](https://github.com/drwismer/metis_regression_module/blob/main/project_writeup_ufc.md) file and view my presentation slides in the [**presentation_slides_ufc.pdf**](https://github.com/drwismer/metis_regression_module/blob/main/presentation_slides_ufc.pdf) file in this folder.
